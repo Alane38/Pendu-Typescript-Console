@@ -1,0 +1,18 @@
+{
+  "name": "pendu-typescript-challenge-console",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.4.1",
+    "@types/inquirer": "^8.1.3",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.4"
+  }
+}

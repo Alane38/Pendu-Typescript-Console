@@ -1,0 +1,13 @@
+# Dossiers
+node_modules/
+dist/
+
+# Fichiers de configuration
+*.env
+
+# Fichiers de build
+*.js
+*.js.map
+
+# Fichiers de test
+*.spec.ts
