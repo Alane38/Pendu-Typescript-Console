@@ -47,10 +47,6 @@ Suivez les instructions affichées dans la console pour deviner les lettres ou l
 3. Si vous devinez toutes les lettres du mot, vous gagnez !
 4. Pour quitter à tout moment, tapez `q!`.
 
-## Capture d'écran
-
-![Capture d'écran du jeu](screenshot.png)
-
 ## Remarques
 
 - Ce jeu utilise `node-fetch` pour récupérer des citations aléatoires. Assurez-vous d'avoir une connexion internet active lors de l'utilisation.
