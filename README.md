@@ -2,8 +2,6 @@
 
 Un jeu de Pendu simple implémenté en TypeScript, jouable dans la console.
 
-![Capture d'écran du jeu](screenshot.png)
-
 ## Fonctionnalités
 
 - Sélection aléatoire d'un mot à deviner parmi une liste prédéfinie.
